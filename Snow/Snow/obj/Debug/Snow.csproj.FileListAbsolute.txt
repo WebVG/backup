@@ -1,0 +1,5 @@
+c:\users\garrett\documents\visual studio 2013\Projects\Snow\Snow\bin\Debug\Snow.exe.config
+c:\users\garrett\documents\visual studio 2013\Projects\Snow\Snow\bin\Debug\Snow.exe
+c:\users\garrett\documents\visual studio 2013\Projects\Snow\Snow\bin\Debug\Snow.pdb
+c:\users\garrett\documents\visual studio 2013\Projects\Snow\Snow\obj\Debug\Snow.exe
+c:\users\garrett\documents\visual studio 2013\Projects\Snow\Snow\obj\Debug\Snow.pdb
