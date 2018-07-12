@@ -1,0 +1,5 @@
+C:\Users\Garrett\Documents\SharpDevelop Projects\loops\loops\bin\Debug\loops.exe
+C:\Users\Garrett\Documents\SharpDevelop Projects\loops\loops\bin\Debug\loops.pdb
+C:\Users\Garrett\Documents\SharpDevelop Projects\loops\loops\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Garrett\Documents\SharpDevelop Projects\loops\loops\obj\x86\Debug\loops.exe
+C:\Users\Garrett\Documents\SharpDevelop Projects\loops\loops\obj\x86\Debug\loops.pdb
