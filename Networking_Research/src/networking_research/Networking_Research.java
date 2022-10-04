@@ -57,7 +57,7 @@ public class Networking_Research {
 		}
 		else
 		{
-			System.out.println(address + " the host address and host name are equal, meaning the host name could not be resolved");
+			System.out.println(address + " the host address and host name are equal, meaning the host name could be resolved");
 		}
 		}
  
